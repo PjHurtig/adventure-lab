@@ -13,12 +13,12 @@ h3 {
     font-family: 'Fjalla One', sans-serif;
 }
 
-a{
+a {
     font-family: 'Fjalla One', sans-serif
 }
 
-/* START hero */
-
+/* START hero, navbar, text, responsive */
+/* HERO */
 .hero {
     height: 30rem;
     max-width: 1200px;
@@ -26,8 +26,10 @@ a{
     background: url(../images/hero-bg1.jpg) no-repeat center center;
     overflow: hidden;
 }
-.logo{
+
+.logo {
     float: left;
+    margin-left: 1rem;
 }
 
 .logo a {
@@ -47,27 +49,34 @@ a{
     height: 5rem;
 }
 
-.navbar{
+/* NAVBAR */
+
+.navbar {
     float: right;
     margin-top: 1rem;
     margin-right: 1rem;
 }
 
-.navbar a{
+.navbar a {
     padding: 0.5rem 1rem;
     background-color: rgba(35, 56, 91, 1);
     text-decoration: none;
     color: rgba(247, 244, 235, 1);
     text-transform: uppercase;
-    margin: 0 1rem;
+    margin: 0 0.5rem;
 }
-.navbar a:hover{
+
+.navbar a:hover {
     color: rgba(35, 56, 91, 1);
     background-color: rgba(247, 244, 235, 1);
     transition: 0.2s;
 }
 
-.join-btn{
+.active {
+    border-bottom: 5px solid coral;
+}
+
+.join-btn {
     float: right;
     padding: 1rem 2rem;
     background-color: coral;
@@ -75,25 +84,105 @@ a{
     text-transform: uppercase;
     color: rgba(35, 56, 91, 1);
 }
+
 .join-btn:hover {
     background-color: rgba(35, 56, 91, 1);
     color: coral;
     transition: 0.2s;
 }
 
-.hero-text{
+/* HERO TEXT */
+
+.hero-text {
     position: absolute;
     top: 10rem;
     margin-left: 1rem;
-    
 }
 
-.hero-text h2{
+.hero-text h2 {
     font-size: 3.5rem;
     color: rgba(200, 211, 217, 1);
 }
 
-.hero-text h3{
+.hero-text h3 {
     font-size: 2rem;
     color: rgba(95, 114, 140, 1);
 }
+
+/* RESPONSIVE HERO 950 */
+
+@media screen and (max-width: 950px) {
+    .logo h1 {
+        font-size: 8vw;
+    }
+
+    .navbar {
+        margin: 0;
+    }
+
+    .navbar a {
+        display: block;
+        text-align: center;
+    }
+
+    .join {
+        display: flex;
+        justify-content: flex-end;
+        margin-right: 0.5rem;
+    }
+
+    .join-btn {
+        display: block;
+        float: none;
+        width: fit-content;
+    }
+
+    .hero-text h2 {
+        font-size: 6vw;
+    }
+    .hero-text h3 {
+        font-size: 4vw;
+    }
+}
+
+/* RESPONSIVE HERO 600 */
+
+@media screen and (max-width: 600px) {
+
+    .logo h1 {
+        font-size: 10vw;
+        margin-left: 0;
+        padding: 0;
+    }
+
+    .logo img {
+        display: none;
+    }
+
+    .navbar {
+        width: 100%;
+        margin: 0;
+        text-align: center;
+    }
+
+    .navbar a {
+        display: block;
+        margin: 0;
+    }
+
+    .join {
+        margin: 0;
+
+    }
+    .hero-text{
+        top: 12rem;
+    }
+        .hero-text h2 {
+        font-size: 8vw;
+    }
+    .hero-text h3 {
+        font-size: 6vw;
+    }
+}
+
+/* END hero, navbar, text, responsive */

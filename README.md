@@ -12,3 +12,7 @@ $french-gray: rgba(200, 211, 217, 1);
 $delft-blue: rgba(35, 56, 91, 1);
 $paynes-gray: rgba(95, 114, 140, 1);
 $delft-blue-2: rgba(34, 49, 77, 1);
+
+
+credit
+resposine hero 600px navbar inspires by w3schools responsive navbar
