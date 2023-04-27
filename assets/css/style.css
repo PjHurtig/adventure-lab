@@ -13,11 +13,87 @@ h3 {
     font-family: 'Fjalla One', sans-serif;
 }
 
+a{
+    font-family: 'Fjalla One', sans-serif
+}
+
 /* START hero */
 
 .hero {
     height: 30rem;
     max-width: 1200px;
     margin: auto;
-    background: url(../images/hero-bg1.jpg) no-repeat center;
+    background: url(../images/hero-bg1.jpg) no-repeat center center;
+    overflow: hidden;
+}
+.logo{
+    float: left;
+}
+
+.logo a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.logo h1 {
+    font-size: 5rem;
+    color: rgba(35, 56, 91, 1);
+    text-transform: uppercase;
+}
+
+.logo img {
+    width: 5rem;
+    height: 5rem;
+}
+
+.navbar{
+    float: right;
+    margin-top: 1rem;
+    margin-right: 1rem;
+}
+
+.navbar a{
+    padding: 0.5rem 1rem;
+    background-color: rgba(35, 56, 91, 1);
+    text-decoration: none;
+    color: rgba(247, 244, 235, 1);
+    text-transform: uppercase;
+    margin: 0 1rem;
+}
+.navbar a:hover{
+    color: rgba(35, 56, 91, 1);
+    background-color: rgba(247, 244, 235, 1);
+    transition: 0.2s;
+}
+
+.join-btn{
+    float: right;
+    padding: 1rem 2rem;
+    background-color: coral;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: rgba(35, 56, 91, 1);
+}
+.join-btn:hover {
+    background-color: rgba(35, 56, 91, 1);
+    color: coral;
+    transition: 0.2s;
+}
+
+.hero-text{
+    position: absolute;
+    top: 10rem;
+    margin-left: 1rem;
+    
+}
+
+.hero-text h2{
+    font-size: 3.5rem;
+    color: rgba(200, 211, 217, 1);
+}
+
+.hero-text h3{
+    font-size: 2rem;
+    color: rgba(95, 114, 140, 1);
 }
