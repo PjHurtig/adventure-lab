@@ -213,7 +213,7 @@ a {
     gap: 1vw;
     grid-template-columns: repeat(3, 1fr);
     max-width: 1200px;
-    margin: auto;
+    margin: 0 auto;
 }
 
 .card{
@@ -231,3 +231,67 @@ a {
 
 /* END reasons */
 /* START testimonials */
+
+.testimonials-section{
+    overflow: hidden;
+    text-align: center;
+}
+
+.testimonials-section h2{
+    margin: 1rem 0;
+}
+
+.testimonials-section h3{
+    color: coral;
+}   
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.box{
+    display: flex;
+    align-items: baseline;
+    background-color: rgb(200, 211, 217);
+    border-radius: 100% 0 100% 0;
+    margin-bottom: 1rem;
+}
+
+.t-image{
+    margin-left: 10vw;
+}
+
+.t-image img{
+    width: 15rem;
+    border-radius: 50%;
+}
+
+.t-text{
+    background-color: white;
+    width: 10rem;
+    padding: 1rem 2rem;
+    border-radius: 0 50% 50% 50%;
+    text-align: center;
+}
+
+/* REVERSED */
+
+.container > div:nth-child(2){
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+    border-radius: 0 100% 0 100%;
+}
+
+.container>div:nth-child(2) > .t-image{
+    margin-right: 10vw;
+    margin-left: 0;
+}
+
+.container>div:nth-child(2)>.t-text {
+    border-radius: 50% 0 50% 50%;
+}
+
+/* RESPONSIVE testimonials */
+
