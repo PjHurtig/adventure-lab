@@ -21,3 +21,5 @@ $delft-blue-2: rgba(34, 49, 77, 1);
 
 credit
 responsive hero 600px navbar inspired by w3schools responsive navbar
+
+

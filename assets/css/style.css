@@ -295,3 +295,47 @@ a {
 
 /* RESPONSIVE testimonials */
 
+@media screen and (max-width: 500px) {
+    .box {
+        display: block;
+        width: 100%;
+        padding: 0;
+    }
+
+    .t-image {
+        display: flex;
+        margin-left: 1vw;
+    }
+
+    .t-text {
+        display: block;
+        border-radius: 0;
+        padding: 0.5rem;
+        width: 100%;
+    }
+
+    .container>div:nth-child(2) {
+        display: block;
+        width: 100%;
+    }
+
+    .container>div:nth-child(2)>.t-text {
+        display: block;
+        border-radius: 0;
+        float: right;
+        padding: 0;
+    }
+
+    .container>div:nth-child(2)>.t-image {
+        display: flex;
+        flex-direction: row-reverse;
+        margin: 0;
+        justify-content: center;
+    }
+
+    .t-image img {
+        max-width: 150px;
+    }
+}
+
+/* END testimonials */
