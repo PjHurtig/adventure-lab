@@ -4,6 +4,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Cantarell', sans-serif;
+    background-color: rgba(247, 244, 235, 1);
 }
 
 h1,
@@ -187,3 +188,36 @@ a {
 }
 
 /* END hero, navbar, text, responsive */
+/* START reasons */
+
+.reasons-section{
+    overflow: hidden;
+    text-align: center;
+}
+
+
+.reasons-section h2, h3 {
+    text-transform: uppercase;
+}
+
+.reasons-section h2 {
+    margin: 1rem;
+}
+
+.reasons-section h4 {
+    text-transform: capitalize;
+}
+
+.cards{
+    background-color: white;
+    display: grid;
+    gap: 1vw;
+    grid-template-columns: repeat(3, 1fr);
+    max-width: 1200px;
+    margin: auto;
+}
+
+.card{
+    text-align: center;
+    padding: 1rem;
+}
