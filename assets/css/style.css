@@ -486,11 +486,11 @@ a {
     height: 28rem;
     width: 1200px;
     margin: 0;
-    padding: 2rem;
+    padding: 1rem;
 
 }
 .nl-form {
-
+    font-weight: bold;
     background-color: rgba(0, 0, 0, 0.7);
     width: fit-content;
     color: rgba(247, 244, 235, 1);
