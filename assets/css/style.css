@@ -419,7 +419,7 @@ a {
         margin: 1rem auto;
         padding: 1rem 1rem 5rem;
     }
-    
+
     .time p {
         color: rgba(34, 49, 77, 1);
         background-color: rgba(247, 244, 235, 1);
@@ -429,5 +429,12 @@ a {
         border-radius: 0 2rem 2rem 2rem;
     }
     
-
+    .line {
+        background-color: rgba(34, 49, 77, 1);
+        width: 0.1rem;
+        height: 4rem;
+        align-self: center;
+        justify-self: center;
+        margin: 1rem;
+                }
 }
