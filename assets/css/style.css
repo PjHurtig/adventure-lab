@@ -426,7 +426,7 @@ a {
         bottom: 1.5rem;
         color: rgba(34, 49, 77, 1);
         background-color: rgba(247, 244, 235, 1);
-        width: fit-content;
+        width: 4rem;
         height: auto;
         padding: 1rem;
         border-radius: 0 2rem 2rem 2rem;
@@ -445,15 +445,18 @@ a {
     .tl-container > div:nth-child(3) > p, :nth-child(7) > p{
         color: red;
         position: relative;
-        right: 4.5rem;
+        right: 6.7rem;
         border-radius: 2rem 0rem 2rem 2rem;
-        align-self: center;
+
     }
     .tl-container > div:nth-child(1) > p, :nth-child(5) > p{
         position: relative;
         left: 2rem;
         border-radius: 0rem 2rem 2rem 2rem;
     
+    }
+    .time {
+        margin: 3rem;
     }
 
 }
