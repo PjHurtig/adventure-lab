@@ -340,3 +340,16 @@ a {
 
 /* END testimonials */
 /* START timeline */
+
+.timeline-section{
+    text-align: center;
+}
+
+.tl-container{
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    
+}
