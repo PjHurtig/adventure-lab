@@ -22,4 +22,12 @@ $delft-blue-2: rgba(34, 49, 77, 1);
 credit
 responsive hero 600px navbar inspired by w3schools responsive navbar
 
+KNOWN BUGS
+Testimonials section
+when zeroing margin-left in t-image class for the responsive 500px section to center all pictures above text, ”Leons” picture runs away.
+Temporary fix: Keep a margin of 1vw and its not noticable.
 
+Bug found:
+Found the bug through chrome dev tools. The reason was a float: right from earlier on ”Johan” (the reversed part of testimonials)
+Actual fix:
+Float can be removed because in responsive section they all use flex as is new convention, though float is still being taught in the course, and this project reflects that.

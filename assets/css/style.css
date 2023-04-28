@@ -304,7 +304,8 @@ a {
 
     .t-image {
         display: flex;
-        margin-left: 1vw;
+        justify-content: center;
+        margin-left: 0;
     }
 
     .t-text {
@@ -322,7 +323,6 @@ a {
     .container>div:nth-child(2)>.t-text {
         display: block;
         border-radius: 0;
-        float: right;
         padding: 0;
     }
 
@@ -339,3 +339,4 @@ a {
 }
 
 /* END testimonials */
+/* START timeline */
