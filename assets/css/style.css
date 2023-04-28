@@ -545,7 +545,7 @@ input[type="checkbox"]:checked {
     }
 
     .nl-form {
-    width: fit-content;
+    width: auto;
     margin: 0;
     }
 
