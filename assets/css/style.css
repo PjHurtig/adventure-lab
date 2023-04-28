@@ -565,5 +565,9 @@ input[type="checkbox"]:checked {
     input[type="checkbox"] {
         width: 1.5rem;
         height: 1.5rem;
+        margin-bottom: 1rem;
+        position: relative;
+        top: 0;
+
     }
 }
