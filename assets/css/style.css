@@ -461,7 +461,7 @@ a {
 /* START newsletter */
 
 .newsletter-section {
-    height: 25rem;
+    height: 28rem;
     max-width: 1200px;
     margin: 0 auto;
     background: url(../images/hero-bg1.jpg) no-repeat center center;
@@ -471,7 +471,7 @@ a {
 
 .nl-container {
     background-color: rgba(0, 0, 0, 0.473);
-    height: 25rem;
+    height: 28rem;
     width: 1200px;
     margin: 0;
     padding: 2rem;
@@ -480,7 +480,7 @@ a {
 .nl-form {
 
     background-color: black;
-    width: 40rem;
+    width: fit-content;
     color: rgba(247, 244, 235, 1);
     padding: 2rem;
 }
