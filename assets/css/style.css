@@ -361,6 +361,8 @@ a {
     border-radius: 50%;
     height: 1.4rem;
     width: 1.4rem;
+    align-self: center;
+    justify-self: center;
 }
 
 .time p{
@@ -370,5 +372,11 @@ a {
     height: fit-content;
     padding: 1rem;
     border-radius: 0 2rem 2rem 2rem;
-    
 }
+
+.line{
+    background-color: rgba(34, 49, 77, 1);
+    height: 0.1rem;
+    align-self: center;
+}
+
