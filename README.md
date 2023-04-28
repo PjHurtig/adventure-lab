@@ -31,3 +31,11 @@ Bug found:
 Found the bug through chrome dev tools. The reason was a float: right from earlier on ”Johan” (the reversed part of testimonials)
 Actual fix:
 Float can be removed because in responsive section they all use flex as is new convention, though float is still being taught in the course, and this project reflects that.
+
+ABOUT THE SECTIONS - Words from the coder
+
+HERO
+
+REASONS TO JOIN US
+This is probably the simplest part of the website where im trying a way of using grid rows to convey the "reasons to join" simply and also easily make it responsive.
+I think it works well but maybe there is an even easier way of using grids, flexbox would have worked well here too.
