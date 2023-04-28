@@ -346,10 +346,19 @@ a {
 }
 
 .tl-container{
+    background-color: white;
     display: grid;
     grid-template-columns: repeat(9, 1fr);
     align-items: center;
     max-width: 1200px;
     margin: 0 auto;
-    
+}
+
+.time{
+    background-color: rgba(34, 49, 77, 1);
+    color: white;
+    border-radius: 50%;
+    height: 2rem;
+    width: 2rem;
+
 }
