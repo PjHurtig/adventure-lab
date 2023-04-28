@@ -476,3 +476,8 @@ a {
     margin: 0;
 
 }
+.nl-form {
+    background-color: black;
+    width: 40rem;
+    color: rgba(247, 244, 235, 1);
+}
