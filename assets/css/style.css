@@ -469,8 +469,16 @@ a {
     margin-bottom: 2rem;
 }
 
+.newsletter-section h2{
+    text-transform: capitalize;
+}
+
+.newsletter-section h3 {
+    margin: 0.5rem 0;
+}
+
 .nl-container {
-    background-color: rgba(0, 0, 0, 0.473);
+    background-color: rgba(0, 0, 0, 0.5);
     height: 28rem;
     width: 1200px;
     margin: 0;
@@ -479,8 +487,9 @@ a {
 }
 .nl-form {
 
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.7);
     width: fit-content;
     color: rgba(247, 244, 235, 1);
     padding: 2rem;
 }
+
