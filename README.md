@@ -39,3 +39,7 @@ HERO
 REASONS TO JOIN US
 This is probably the simplest part of the website where im trying a way of using grid rows to convey the "reasons to join" simply and also easily make it responsive.
 I think it works well but maybe there is an even easier way of using grids, flexbox would have worked well here too.
+
+TIMELINE
+This was an attempt to use what I know about grids to make a very simple minimalist timeline, it ended up being a lot more code than I had planned. I am very pleased with the result so it was worth it.
+Kept in style with the speechboxes from the previous section but styled more informative and less comic-like.
