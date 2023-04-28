@@ -383,7 +383,17 @@ a {
 .tl-end{
     background-color: coral;
     border-radius: 50%;
-    height: 10rem;
-    width: 10rem;
+    height: 7rem;
+    width: 7rem;
     justify-self: center;
+    padding: 1rem;
+}
+.tl-end h3{
+    background-color: rgba(34, 49, 77, 1);
+        color: white;
+        border-radius: 50%;
+        height: 1.4rem;
+        width: 1.4rem;
+        margin: auto;
+        
 }
