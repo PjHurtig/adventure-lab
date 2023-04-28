@@ -465,7 +465,7 @@ a {
 /* START newsletter */
 
 .newsletter-section {
-    height: 28rem;
+    height: fit-content;
     max-width: 1200px;
     margin: 0 auto;
     background: url(../images/hero-bg1.jpg) no-repeat center center;
@@ -483,7 +483,7 @@ a {
 
 .nl-container {
     background-color: rgba(0, 0, 0, 0.5);
-    height: 28rem;
+    height: fit-content;
     width: 1200px;
     margin: 0;
     padding: 1rem;
@@ -513,4 +513,6 @@ a {
 #submit-btn:hover {
     background-color: rgba(35, 56, 91, 1);
     color: coral;
+    transition: 0.2s;
 }
+
