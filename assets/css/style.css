@@ -373,7 +373,11 @@ a {
     padding: 1rem;
     border-radius: 0 2rem 2rem 2rem;
     font-weight: bolder;
+    position: relative;
+    left: 1rem;
+    bottom: 0.5rem;
 }
+
 
 .line{
     background-color: rgba(34, 49, 77, 1);
