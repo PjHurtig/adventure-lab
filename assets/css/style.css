@@ -21,6 +21,7 @@ a {
 
 /* START hero, navbar, text, responsive */
 /* HERO */
+
 .hero {
     height: 30rem;
     max-width: 1200px;
@@ -454,3 +455,7 @@ a {
         left: 2rem;
         border-radius: 0rem 2rem 2rem 2rem;
 }
+
+/* END timeline */
+/* START newsletter */
+
