@@ -448,5 +448,12 @@ a {
         right: 4.5rem;
         border-radius: 2rem 0rem 2rem 2rem;
         align-self: center;
+    }
+    .tl-container > div:nth-child(1) > p, :nth-child(5) > p{
+        position: relative;
+        left: 2rem;
+        border-radius: 0rem 2rem 2rem 2rem;
+    
+    }
 
 }
