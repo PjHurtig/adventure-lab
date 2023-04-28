@@ -372,6 +372,7 @@ a {
     height: fit-content;
     padding: 1rem;
     border-radius: 0 2rem 2rem 2rem;
+    font-weight: bolder;
 }
 
 .line{
@@ -421,10 +422,12 @@ a {
     }
 
     .time p {
+        position: relative;
+        bottom: 1.5rem;
         color: rgba(34, 49, 77, 1);
         background-color: rgba(247, 244, 235, 1);
-        width: 4rem;
-        height: fit-content;
+        width: fit-content;
+        height: auto;
         padding: 1rem;
         border-radius: 0 2rem 2rem 2rem;
     }
@@ -436,5 +439,14 @@ a {
         align-self: center;
         justify-self: center;
         margin: 1rem;
-                }
+    }
+
+
+    .tl-container > div:nth-child(3) > p, :nth-child(7) > p{
+        color: red;
+        position: relative;
+        right: 4.5rem;
+        border-radius: 2rem 0rem 2rem 2rem;
+        align-self: center;
+
 }
