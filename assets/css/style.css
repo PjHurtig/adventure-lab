@@ -323,7 +323,7 @@ a {
     .container>div:nth-child(2)>.t-text {
         display: block;
         border-radius: 0;
-        padding: 0;
+        padding: 0.5rem;
     }
 
     .container>div:nth-child(2)>.t-image {
