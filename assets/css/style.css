@@ -474,10 +474,13 @@ a {
     height: 25rem;
     width: 1200px;
     margin: 0;
+    padding: 2rem;
 
 }
 .nl-form {
+
     background-color: black;
     width: 40rem;
     color: rgba(247, 244, 235, 1);
+    padding: 2rem;
 }
