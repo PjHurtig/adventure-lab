@@ -506,4 +506,11 @@ a {
     font-weight: bolder;
     font-family: 'Fjalla One', sans-serif;
     font-size: 1rem;
+    text-shadow: none;
+    border: none;
+    margin-top: 1rem;
+}
+#submit-btn:hover {
+    background-color: rgba(35, 56, 91, 1);
+    color: coral;
 }
