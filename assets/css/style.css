@@ -366,8 +366,8 @@ a {
 }
 
 .time p{
-    color: rgba(34, 49, 77, 1);
-    background-color: rgba(247, 244, 235, 1);
+    color: rgba(247, 244, 235, 1);
+    background-color: rgba(34, 49, 77, 1);
     width: fit-content;
     height: fit-content;
     padding: 1rem;
@@ -427,8 +427,6 @@ a {
     .time p {
         position: relative;
         bottom: 1.5rem;
-        color: rgba(34, 49, 77, 1);
-        background-color: rgba(247, 244, 235, 1);
         width: 4rem;
         height: auto;
         padding: 1rem;
