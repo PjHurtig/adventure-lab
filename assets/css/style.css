@@ -527,6 +527,8 @@ input[type="checkbox"] {
     width: 1rem;
     height: 1rem;
     background-color: white;
+    position: relative;
+    top: 0.3rem;
 }
 
 input[type="checkbox"]:checked {
@@ -557,4 +559,8 @@ input[type="checkbox"]:checked {
         display: none;
     }
 
+    input[type="checkbox"] {
+        width: 1.5rem;
+        height: 1.5rem;
+    }
 }
