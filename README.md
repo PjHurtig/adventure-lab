@@ -43,3 +43,8 @@ I think it works well but maybe there is an even easier way of using grids, flex
 TIMELINE
 This was an attempt to use what I know about grids to make a very simple minimalist timeline, it ended up being a lot more code than I had planned. I am very pleased with the result so it was worth it.
 Kept in style with the speechboxes from the previous section but styled more informative and less comic-like.
+
+
+TO DO
+
+change size of bgimage becaouse of newsletter size
