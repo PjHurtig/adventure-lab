@@ -547,8 +547,11 @@ input[type="checkbox"]:checked {
     }
 
     .nl-form {
-    width: auto;
-    margin: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: auto;
+        margin: 0;
     }
 
     .nl-form input, label {
