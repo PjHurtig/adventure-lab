@@ -468,3 +468,11 @@ a {
     overflow: hidden;
     margin-bottom: 2rem;
 }
+
+.nl-container {
+    background-color: rgba(0, 0, 0, 0.473);
+    height: 25rem;
+    width: 1200px;
+    margin: 0;
+
+}
