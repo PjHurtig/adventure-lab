@@ -357,7 +357,7 @@ a {
     align-items: center;
     max-width: 1200px;
     margin: 1rem auto;
-    padding: 1rem 1rem 5rem;
+    padding: 1rem 0rem 5rem;
 }
 
 .time{
