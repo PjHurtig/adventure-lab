@@ -20,7 +20,13 @@ $delft-blue-2: rgba(34, 49, 77, 1);
 
 
 credit
-responsive hero 600px navbar inspired by w3schools responsive navbar
+responsive hero 600px navbar inspired by w3schools responsive 
+navbar
+
+mailto link info from <https://email.uplers.com/blog/best-practices-for-creating-html-email-links/>
+
+styling of checkbox from stackoverflow (image)https://stackoverflow.com/questions/4148499/how-to-style-a-checkbox-using-css/69164710#69164710
+
 
 KNOWN BUGS
 Testimonials section
