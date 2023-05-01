@@ -580,3 +580,19 @@ input[type="checkbox"]:checked {
 
 /* END newsletter */
 /* START footer */
+
+
+.footer-section ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+.socials a{
+    font-size: xx-large;
+    color: rgba(35, 56, 91, 1);
+}
+
+.contact li{
+    padding: 1rem;
+}
