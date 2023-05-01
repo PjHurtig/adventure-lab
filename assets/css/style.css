@@ -590,7 +590,7 @@ input[type="checkbox"]:checked {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
-    
+    padding-inline-start: 0;
 }
 
 .socials a{
@@ -600,7 +600,7 @@ input[type="checkbox"]:checked {
 
 .contact ul{
     margin: 1rem;
-    padding: 0.5 rem;
+    padding: 0.5rem;
 }
 
 /* RESPONSIVE footer */
@@ -612,7 +612,10 @@ input[type="checkbox"]:checked {
     text-align: center;
 }
 
-.socials a {
-    margin: 1rem 0;
+.socials li {
+    padding: 1rem 0;
+}
+.contact li {
+    padding: 1rem 0;
 }
 }
