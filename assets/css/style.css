@@ -15,7 +15,7 @@ h4 {
     font-family: 'Fjalla One', sans-serif;
 }
 
-p{
+p {
     font-weight: bold;
 }
 
@@ -147,6 +147,7 @@ a {
     .hero-text h2 {
         font-size: 6vw;
     }
+
     .hero-text h3 {
         font-size: 4vw;
     }
@@ -181,12 +182,15 @@ a {
         margin: 0;
 
     }
-    .hero-text{
+
+    .hero-text {
         top: 12rem;
     }
-        .hero-text h2 {
+
+    .hero-text h2 {
         font-size: 8vw;
     }
+
     .hero-text h3 {
         font-size: 6vw;
     }
@@ -195,12 +199,13 @@ a {
 /* END hero, navbar, text, responsive */
 /* START reasons */
 
-.reasons-section{
+.reasons-section {
     overflow: hidden;
     text-align: center;
 }
 
-.reasons-section h2, h3 {
+.reasons-section h2,
+h3 {
     text-transform: uppercase;
 }
 
@@ -212,7 +217,7 @@ a {
     text-transform: capitalize;
 }
 
-.cards{
+.cards {
     background-color: white;
     display: grid;
     gap: 3vw;
@@ -223,41 +228,41 @@ a {
     align-items: center;
 }
 
-.card{
+.card {
     text-align: center;
     padding: 1rem;
 }
 
 /* RESPONSIVE reasons */
 
-@media screen and (max-width: 600px){
-    .cards{
+@media screen and (max-width: 600px) {
+    .cards {
         grid-template-columns: repeat(1, 1fr);
-    }    
+    }
 }
 
 /* END reasons */
 /* START testimonials */
 
-.testimonials-section{
+.testimonials-section {
     overflow: hidden;
     text-align: center;
 }
 
-.testimonials-section h2{
+.testimonials-section h2 {
     margin: 1rem 0;
 }
 
-.testimonials-section h3{
+.testimonials-section h3 {
     color: coral;
-}   
+}
 
-.container{
+.container {
     max-width: 1200px;
     margin: 0 auto;
 }
 
-.box{
+.box {
     display: flex;
     align-items: baseline;
     background-color: rgb(200, 211, 217);
@@ -265,16 +270,16 @@ a {
     margin-bottom: 1rem;
 }
 
-.t-image{
+.t-image {
     margin-left: 10vw;
 }
 
-.t-image img{
+.t-image img {
     width: 15rem;
     border-radius: 50%;
 }
 
-.t-text{
+.t-text {
     background-color: white;
     width: 10rem;
     padding: 1rem 2rem;
@@ -284,14 +289,14 @@ a {
 
 /* REVERSED */
 
-.container > div:nth-child(2){
+.container>div:nth-child(2) {
     display: flex;
     flex-direction: row-reverse;
     justify-content: flex-start;
     border-radius: 0 100% 0 100%;
 }
 
-.container>div:nth-child(2) > .t-image{
+.container>div:nth-child(2)>.t-image {
     margin-right: 10vw;
     margin-left: 0;
 }
@@ -348,11 +353,11 @@ a {
 /* END testimonials */
 /* START timeline */
 
-.timeline-section{
+.timeline-section {
     text-align: center;
 }
 
-.tl-container{
+.tl-container {
     background-color: white;
     display: grid;
     grid-template-columns: repeat(9, 1fr);
@@ -362,7 +367,7 @@ a {
     padding: 1rem 0rem 5rem;
 }
 
-.time{
+.time {
     background-color: rgba(34, 49, 77, 1);
     color: white;
     border-radius: 50%;
@@ -372,7 +377,7 @@ a {
     justify-self: center;
 }
 
-.time p{
+.time p {
     color: rgba(247, 244, 235, 1);
     background-color: rgba(34, 49, 77, 1);
     width: fit-content;
@@ -385,13 +390,13 @@ a {
 }
 
 
-.line{
+.line {
     background-color: rgba(34, 49, 77, 1);
     height: 0.1rem;
     align-self: center;
 }
 
-.tl-end{
+.tl-end {
     background-color: coral;
     border-radius: 50%;
     height: 7rem;
@@ -400,14 +405,15 @@ a {
     padding: 1rem;
     margin: 1rem;
 }
-.tl-end h3{
+
+.tl-end h3 {
     font-weight: bolder;
     color: white;
     margin: auto;
     font-size: 2rem;
     padding: 0;
     margin: 0;
-        
+
 }
 
 .tl-end p {
@@ -421,11 +427,11 @@ a {
 /* RESPONSIVE timeline */
 
 @media screen and (max-width: 600px) {
-    
+
     .tl-container {
         background-color: white;
         display: grid;
-        grid-template-columns: repeat(1 ,1fr);
+        grid-template-columns: repeat(1, 1fr);
         align-items: center;
         margin: 1rem auto;
         padding: 1rem 1rem 5rem;
@@ -439,7 +445,7 @@ a {
         padding: 1rem;
         border-radius: 0 2rem 2rem 2rem;
     }
-    
+
     .line {
         background-color: rgba(34, 49, 77, 1);
         width: 0.1rem;
@@ -450,13 +456,16 @@ a {
     }
 
 
-    .tl-container > div:nth-child(3) > p, :nth-child(7) > p{
+    .tl-container>div:nth-child(3)>p,
+    :nth-child(7)>p {
         position: relative;
         right: 6.7rem;
         border-radius: 2rem 0rem 2rem 2rem;
 
     }
-    .tl-container > div:nth-child(1) > p, :nth-child(5) > p{
+
+    .tl-container>div:nth-child(1)>p,
+    :nth-child(5)>p {
         position: relative;
         left: 2rem;
         border-radius: 0rem 2rem 2rem 2rem;
@@ -475,7 +484,7 @@ a {
     margin-bottom: 2rem;
 }
 
-.newsletter-section h2{
+.newsletter-section h2 {
     text-transform: capitalize;
 }
 
@@ -491,6 +500,7 @@ a {
     padding: 1rem;
 
 }
+
 .nl-form {
     font-weight: bold;
     background-color: rgba(0, 0, 0, 0.7);
@@ -499,7 +509,7 @@ a {
     padding: 2rem;
 }
 
-#submit-btn{
+#submit-btn {
     padding: 1rem 2rem;
     background-color: coral;
     text-decoration: none;
@@ -512,6 +522,7 @@ a {
     border: none;
     margin-top: 1rem;
 }
+
 #submit-btn:hover {
     background-color: rgba(35, 56, 91, 1);
     color: coral;
@@ -522,8 +533,7 @@ a {
 /* style checkbox */
 
 input[type="checkbox"] {
-    -webkit-appearance: none;
-    -moz-appearance: none;
+
     appearance: none;
     width: 1rem;
     height: 1rem;
@@ -541,7 +551,7 @@ input[type="checkbox"]:checked {
 /* RESPONSIVE newsletter */
 
 @media screen and (max-width: 600px) {
-    
+
     .nl-container {
         display: block;
         width: 100%;
@@ -557,11 +567,12 @@ input[type="checkbox"]:checked {
         margin: 0;
     }
 
-    .nl-form input, label {
+    .nl-form input,
+    label {
         display: flex;
     }
 
-    .break{
+    .break {
         display: none;
     }
 
@@ -583,19 +594,19 @@ input[type="checkbox"]:checked {
     margin: auto;
 }
 
-.footer-section ul{
+.footer-section ul {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
     padding-inline-start: 0;
 }
 
-.socials a{
+.socials a {
     font-size: xx-large;
     color: rgba(35, 56, 91, 1);
 }
 
-.contact ul{
+.contact ul {
     margin: 1rem;
     padding: 0.5rem;
 }
@@ -604,15 +615,16 @@ input[type="checkbox"]:checked {
 
 @media screen and (max-width: 600px) {
 
-.footer-section ul {
-    display: block;
-    text-align: center;
-}
+    .footer-section ul {
+        display: block;
+        text-align: center;
+    }
 
-.socials li {
-    padding: 1rem 0;
-}
-.contact li {
-    padding: 1rem 0;
-}
+    .socials li {
+        padding: 1rem 0;
+    }
+
+    .contact li {
+        padding: 1rem 0;
+    }
 }
