@@ -581,7 +581,7 @@ input[type="checkbox"]:checked {
 /* END newsletter */
 /* START footer */
 
-.footer-section ul {
+.footer-section {
     max-width: 1200px;
     margin: auto;
 }
@@ -590,6 +590,7 @@ input[type="checkbox"]:checked {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
+    
 }
 
 .socials a{
@@ -597,6 +598,21 @@ input[type="checkbox"]:checked {
     color: rgba(35, 56, 91, 1);
 }
 
-.contact li{
-    padding: 1rem;
+.contact ul{
+    margin: 1rem;
+    padding: 0.5 rem;
+}
+
+/* RESPONSIVE footer */
+
+@media screen and (max-width: 600px) {
+
+.footer-section ul {
+    display: block;
+    text-align: center;
+}
+
+.socials a {
+    margin: 1rem 0;
+}
 }
