@@ -581,6 +581,10 @@ input[type="checkbox"]:checked {
 /* END newsletter */
 /* START footer */
 
+.footer-section ul {
+    max-width: 1200px;
+    margin: auto;
+}
 
 .footer-section ul{
     display: flex;
