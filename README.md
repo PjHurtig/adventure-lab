@@ -65,3 +65,11 @@ Then i used vscode to mock up the sections in both desktop and responsive view a
 ## Future Features
 
 - Subscribe form is only connected to code institute formdump at the moment, but will be a fully functional email-list with automatic welcome email in the future
+
+# Technologies Used
+
+## Languages Used
+
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/CSS)
+
