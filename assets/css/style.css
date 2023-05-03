@@ -208,12 +208,12 @@ a {
     text-align: center;
 }
 
-.reasons-section h2,
-h3 {
+.reasons-section h3 {
     text-transform: uppercase;
 }
 
 .reasons-section h2 {
+    text-transform: capitalize;
     margin: 1rem;
 }
 
