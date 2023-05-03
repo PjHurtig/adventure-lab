@@ -38,3 +38,13 @@ Few but impactful images helps the user experience by being clear on the subject
 ### Overall Feel
 I wanted to elicit a feeling of excitement for getting outdoors and make a simple and clear experience that feels light and airy.
 
+### Wireframes
+First draft was just super quick pen on striped notebook showing desktop and phone view:
+
+- paper wireframe phone [here](https://i.imgur.com/mZlLsR1.png)
+- paper wireframe desktop [here](https://i.imgur.com/5XhzIYm.png)
+
+Then i used vscode to mock up the sections in both desktop and responsive view at different sizes.
+
+- vs code mock up responsive [here](https://i.imgur.com/Gwkc0Y6.png)
+- vs code mock up desktop [here](<https://i.imgur.com/05s8Ssg.png>)
