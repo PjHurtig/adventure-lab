@@ -73,3 +73,15 @@ Then i used vscode to mock up the sections in both desktop and responsive view a
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
 - [CSS3](https://en.wikipedia.org/wiki/CSS)
 
+## Other Aides and Programs Used
+
+- [Font Awesome](https://fontawesome.com/) icons for social media links
+- [Google Fonts](https://fonts.google.com/) to import 'Fjalla One' and 'Cantarell' fonts.
+- [GitHub](https://github.com/) as repository host
+- [Visual Studio Code](https://code.visualstudio.com/) to mock up functioning wireframe
+- [Codeanywhere](https://app.codeanywhere.com/) to develop and commit to github
+- [GitHub Pages](https://pages.github.com/) to deploy the site
+- [Imgur](https://imgur.com/) for hosting external image links
+- [Fontpair](https://www.fontpair.co/all) to help choose font pairing
+- [Coolors](https://coolors.co/image-picker) to generate palettes from hero image
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse) to test performance and accessability
