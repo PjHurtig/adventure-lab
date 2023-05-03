@@ -182,3 +182,20 @@ I have used [TinyPNG](https://tinypng.com/) to optimize image sizes as well as c
 #### Accessibility
 
 text in hero section was very low contrast to background
+
+
+## Bugs & Fixes
+
+### Testimonials section
+
+When putting margin-left to 0 in t-image class for the responsive 500px section to center all pictures above text, ”Leons” picture "runs away".
+
+**Temporary fix**: Keep a margin of 1vw and its not too distracting.
+
+**Bug found:**
+Found the bug through chrome dev tools. The reason was a float: right, from earlier on ”Johan” (the reversed part of testimonials)
+
+**Actual fix**:
+Float can be removed because in responsive section they all use flex as is the new convention.
+
+**Result:** Works as intended
