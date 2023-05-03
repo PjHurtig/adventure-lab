@@ -248,3 +248,15 @@ This site was deployed through GitHub Pages using the following steps:
 ### Text
 
 - Text content was written by me
+
+### Media
+
+- Hero image from [unsplash](https://unsplash.com/photos/DijA5f0voGQ)
+
+- Member profile pictures from [pexels(1)](https://www.pexels.com/sv-se/foto/man-person-solglasogon-gata-1182238/), [pexels(2)](https://www.pexels.com/sv-se/foto/man-person-sot-ung-720366/), [pexels(3)](https://www.pexels.com/sv-se/foto/kvinna-jeans-sport-lycklig-7991921/)
+
+- About us picture from [unsplash](https://unsplash.com/photos/m1AsLR8g51g)
+
+- Media video from [pexels](https://www.pexels.com/video/people-trekking-on-a-mountain-trail-2894895/)
+
+- Media images from [unsplash(1)](https://unsplash.com/photos/NEqEC7qa9FM), [unsplash(2)](https://unsplash.com/photos/S_VbdMTsdiA)
