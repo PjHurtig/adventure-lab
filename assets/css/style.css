@@ -692,3 +692,37 @@ video {
 
 .polaroid p {
     padding: 2vw;
+}
+
+/* RESPONSIVE media.html */
+
+@media screen and (max-width: 950px) {
+
+    .polaroid {
+        width: 90vw;
+        background-color: rgba(247, 244, 235, 1);
+        margin: 4rem auto;
+    }
+
+    .polaroid img,
+    video {
+        width: 86vw;
+        padding-top: 2vw;
+    }
+
+}
+
+@media screen and (max-width: 600px) {
+
+    .polaroid {
+        width: auto;
+    }
+
+    .polaroid img,
+    video {
+        width: 100vw;
+    }
+
+}
+
+/* END media.html */
