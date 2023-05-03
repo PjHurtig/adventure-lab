@@ -684,12 +684,14 @@ input[type="checkbox"]:checked {
 
 .polaroid {
     width: 70vw;
+    max-width: 840px;
     background-color: rgba(247, 244, 235, 1);
     margin: 4rem auto;
 }
 
 .polaroid img,
 video {
+    max-width: 790px;
     width: 66vw;
     padding-top: 2vw;
 }
