@@ -15,6 +15,10 @@ h4 {
     font-family: 'Fjalla One', sans-serif;
 }
 
+h2 {
+    text-transform: capitalize;
+}
+
 p {
     font-weight: bold;
 }
@@ -30,7 +34,7 @@ a {
     height: 30rem;
     max-width: 1200px;
     margin: 0 auto;
-    background: url(../images/hero-bg1.jpg) no-repeat center center;
+    background: darkslategrey url(../images/hero-bg1.jpg) no-repeat center center;
     overflow: hidden;
 }
 
@@ -108,12 +112,12 @@ a {
 
 .hero-text h2 {
     font-size: 3.5rem;
-    color: rgba(200, 211, 217, 1);
+    color: rgba(247, 244, 235, 1);
 }
 
 .hero-text h3 {
     font-size: 2rem;
-    color: rgba(95, 114, 140, 1);
+    color: rgba(200, 211, 217, 1);
 }
 
 /* RESPONSIVE HERO 950 */
