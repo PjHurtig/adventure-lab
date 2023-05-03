@@ -16,8 +16,11 @@ You can find the live site [here](https://pjhurtig.github.io/adventure-lab/)
 - As a user, i want to be able to easily subscribe
 - As a user, i want to be able to get in contact with the business and follow them on social media
 
-## Design
+## Target audience
 
+- The intended user is anyone who wants to enjoy outdoor experiences in a group setting
+
+## Design
 
 ### Colour Palette
 
@@ -36,8 +39,9 @@ To reflect the outdoors and nature aspect of the websites mission i choose a nat
 
 Few but impactful images helps the user experience by being clear on the subject matter of the site.
 
-- The hero image speakt loudly to the adventure and nature aspects.
-- The member portraits show the feeling of happiness being a part of the club can result in.
+- The hero image speakt loudly to the adventure and nature aspects
+- The member portraits show the feeling of happiness being a part of the club can result in
+- The media gallery shows beautiful scenery and companionship
 
 ### Overall Feel
 
@@ -59,15 +63,17 @@ Then i used vscode to mock up the sections in both desktop and responsive view a
 
 ## Current Features
 
-- The website is made to be fully responsive at all sizes
+- The website is made to be fully responsive at all tested device sizes
 - The website is made to be accessible.
 - Navigation menu changes size and position for best tablet, phone and desktop use
 - Timeline changes direction depending on width of device
 - Email link will open device email app (if installed)
+- "JOIN" button on top of all pages links to subscription form.
 
 ## Future Features
 
 - Subscribe form is only connected to code institute formdump at the moment, but will be a fully functional email-list with automatic welcome email in the future
+- A user forum for diskussion between members
 
 # Technologies Used
 
@@ -143,13 +149,12 @@ Samsung s8
 
 Ipad
 
- - Safari
- - Chrome
+- Safari
+- Chrome
   
 #### Computer
 
-lenovo i
-deapad 
+lenovo ideapad
 
 - Chrome
 - Firefox
@@ -183,7 +188,6 @@ I have used [TinyPNG](https://tinypng.com/) to optimize image sizes as well as c
 
 text in hero section was very low contrast to background
 
-
 ## Bugs & Fixes
 
 ### Testimonials section
@@ -205,17 +209,19 @@ Float can be removed because in responsive section they all use flex as is the n
 ## Deployment through GitHub Pages
 
 This site was deployed through GitHub Pages using the following steps:
+
 1. Log into [GitHub](https://github.com/).
 2. Locate the [repository](https://github.com/PjHurtig/adventure-lab).
-3. Locate the settings option along the options bar. 
+3. Locate the settings option along the options bar.
 4. Locate GitHub Pages options towards the bottom of the page.
-5. In 'Source' dropdown, select 'Master' from the branch options. 
-6. Click the save button. 
+5. In 'Source' dropdown, select 'Master' from the branch options.
+6. Click the save button.
+
 # Credits
 
 ## Code
 
-### README.md
+### README
 
 - I used [AmyOShea's Angies-Beauty](https://github.com/AmyOShea/Angies-Beauty-MS1) README as template for this README.
 
@@ -241,7 +247,7 @@ This site was deployed through GitHub Pages using the following steps:
 
 ### Social Media Links
 
-- social media links from love running walkthrough project
+- social media links from [love running](https://github.com/PjHurtig/love-running) walkthrough project
 
 ## Content
 
