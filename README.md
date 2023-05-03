@@ -168,3 +168,17 @@ Lenovo thinkbook
 #### Third party testing
 
 - I have gotten positive feedback on both usability and aesthetics from friends, family and professionals testing the site on their devices.
+
+### Lighthouse
+
+Throughout the project i have tested the code with Lighthouse with good results.
+
+![lighthousetest](https://i.imgur.com/848JHXx.png
+
+#### Performance
+
+I have used [TinyPNG](https://tinypng.com/) to optimize image sizes as well as change pixel size in an image aditor.
+
+#### Accessibility
+
+text in hero section was very low contrast to background
