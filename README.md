@@ -173,7 +173,7 @@ Lenovo thinkbook
 
 Throughout the project i have tested the code with Lighthouse with good results.
 
-![lighthousetest](https://i.imgur.com/848JHXx.png
+![lighthousetest](https://i.imgur.com/848JHXx.png)
 
 #### Performance
 
@@ -203,6 +203,7 @@ Float can be removed because in responsive section they all use flex as is the n
 # Deployment
 
 ## Deployment through GitHub Pages
+
 This site was deployed through GitHub Pages using the following steps:
 1. Log into [GitHub](https://github.com/).
 2. Locate the [repository](https://github.com/PjHurtig/adventure-lab).
@@ -215,22 +216,35 @@ This site was deployed through GitHub Pages using the following steps:
 ## Code
 
 ### README.md
+
 - I used [AmyOShea's Angies-Beauty](https://github.com/AmyOShea/Angies-Beauty-MS1) README as template for this README.
 
 ### Responsive Navbar
+
 - the 600px responsive navbar was inspired by [w3schools responsive navigation bar](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp) though mine does not use any javascript.
 
 ### Mailto Link
+
 - mailto link info from [email.uplers.com](https://email.uplers.com/blog/best-practices-for-creating-html-email-links/)
 
 ### Checkbox Styling
+
 - styling of checkbox from [stackoverflow](https://stackoverflow.com/questions/4148499/how-to-style-a-checkbox-using-css/69164710#69164710)
 
 ### Grid Row "Reasons" section
+
 - Grid row info from [developer.mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/repeat)
 
 ### Video box
+
 - video box in media.html info from [w3schools](https://www.w3schools.com/html/html5_video.asp)
 
 ### Social Media Links
+
 - social media links from love running walkthrough project
+
+## Content
+
+### Text
+
+- Text content was written by me
