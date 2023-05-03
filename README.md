@@ -205,7 +205,7 @@ Float can be removed because in responsive section they all use flex as is the n
 ## Deployment through GitHub Pages
 This site was deployed through GitHub Pages using the following steps:
 1. Log into [GitHub](https://github.com/).
-2. Locate the [repository](https://github.com/AmyOShea/Angies-Beauty-MS1). 
+2. Locate the [repository](https://github.com/PjHurtig/adventure-lab).
 3. Locate the settings option along the options bar. 
 4. Locate GitHub Pages options towards the bottom of the page.
 5. In 'Source' dropdown, select 'Master' from the branch options. 
