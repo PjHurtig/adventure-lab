@@ -663,3 +663,32 @@ input[type="checkbox"]:checked {
 }
 
 /* END about.html */
+/* START media.html */
+
+.media-heading {
+    margin: 2rem auto;
+    text-align: center;
+}
+
+.media-section {
+    text-align: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+    background-color: rgb(200, 211, 217);
+}
+
+.polaroid {
+    width: 70vw;
+    background-color: rgba(247, 244, 235, 1);
+    margin: 4rem auto;
+}
+
+.polaroid img,
+video {
+    width: 66vw;
+    padding-top: 2vw;
+}
+
+.polaroid p {
+    padding: 2vw;
