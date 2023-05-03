@@ -17,6 +17,8 @@ You can find the live site [here](https://pjhurtig.github.io/adventure-lab/)
 - As a user, i want to be able to get in contact with the business and follow them on social media
 
 ## Design
+
+
 ### Colour Palette
 
 ![Colours used](https://i.imgur.com/TiEA4OC.png)
@@ -101,7 +103,7 @@ Throughout the project i have tested the code with:
 
 - "As a user, i want to be able to understand the business and its brand at first look"
 
-#### The hero image and text looks good in any responsive size and both shows through the image and tells through text to the user who we are,and what we do.
+#### The hero image and text looks good in any responsive size and both shows through the image and tells through text to the user who we are,and what we do
   
 - "As a user, i want to be able to know *why* i should want to join"
 
@@ -138,10 +140,31 @@ Samsung s8
 - Firefox
 
 #### Tablet
+
 Ipad
+
  - Safari
  - Chrome
   
 #### Computer
 
-lenovo mini
+lenovo i
+deapad 
+
+- Chrome
+- Firefox
+- Edge
+- Opera
+
+Lenovo thinkbook
+
+- Firefox
+- Edge
+
+#### Responsinator
+
+- Tested in responsinator
+
+#### Third party testing
+
+- I have gotten positive feedback on both usability and aesthetics from friends, family and professionals testing the site on their devices.
