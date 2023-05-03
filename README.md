@@ -4,7 +4,7 @@ AdventureLAB is a multi-sport adventure club where people can join a mailing-lis
 
 You can find the live site [here](https://pjhurtig.github.io/adventure-lab/)
 
-![amiresponsive view of different sizes](https://imgur.com/QeWZr14)
+![amiresponsive view of different sizes](https://i.imgur.com/QeWZr14.jpg)
 
 # User Experience
 
@@ -14,5 +14,12 @@ You can find the live site [here](https://pjhurtig.github.io/adventure-lab/)
 - As a user, i want to be able to know *why* i should want to join
 - As a user, i want to be able to know the step by step of joining an event
 - As a user, i want to be able to easily subscribe
-- As a user, i want to be able to get in contact with the business and follow on social media
+- As a user, i want to be able to get in contact with the business and follow them on social media
+
+## Design
+### Colour Palette
+
+![Colours used](https://i.imgur.com/TiEA4OC.png)
+
+To reflect the outdoors and nature aspect of the websites mission i choose a natural, light and muted colour scheme. The palette is generated from the hero-bg image.
 
