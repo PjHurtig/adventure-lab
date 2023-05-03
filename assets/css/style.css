@@ -162,7 +162,7 @@ a {
 @media screen and (max-width: 600px) {
 
     .hero {
-        background: darkslategrey url(../images/hero-bg1.jpg) no-repeat left center;
+        background: darkslategrey url(../images/hero-bg1.jpg) no-repeat center center;
     }
 
     .logo h1 {
