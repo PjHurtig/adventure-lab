@@ -21,6 +21,8 @@ You can find the live site [here](https://pjhurtig.github.io/adventure-lab/)
 
 ![Colours used](https://i.imgur.com/TiEA4OC.png)
 
+"White" is also used to make the different sections stand out and "Coral" as a point-of-interest colour.
+
 To reflect the outdoors and nature aspect of the websites mission i choose a natural, light and muted colour scheme. The palette is picked from the hero-bg image.
 
 ### Typography
@@ -32,4 +34,7 @@ To reflect the outdoors and nature aspect of the websites mission i choose a nat
 Few but impactful images helps the user experience by being clear on the subject matter of the site.
 - The hero image speakt loudly to the adventure and nature aspects.
 - The member portraits show the feeling of happiness being a part of the club can result in.
+
+### Overall Feel
+I wanted to elicit a feeling of excitement for getting outdoors and make a simple and clear experience that feels light and airy.
 
