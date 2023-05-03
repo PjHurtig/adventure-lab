@@ -533,7 +533,6 @@ h3 {
 /* style checkbox */
 
 input[type="checkbox"] {
-
     appearance: none;
     width: 1rem;
     height: 1rem;
