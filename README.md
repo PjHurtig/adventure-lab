@@ -31,14 +31,18 @@ To reflect the outdoors and nature aspect of the websites mission i choose a nat
 - **Fjalla One** is the font used for the headings and logo (with sans serif as fallback) because it is bold and adventurous, matching the theme of the site.
 
 ### Imagery
+
 Few but impactful images helps the user experience by being clear on the subject matter of the site.
+
 - The hero image speakt loudly to the adventure and nature aspects.
 - The member portraits show the feeling of happiness being a part of the club can result in.
 
 ### Overall Feel
+
 I wanted to elicit a feeling of excitement for getting outdoors and make a simple and clear experience that feels light and airy.
 
 ### Wireframes
+
 First draft was just super quick pen on striped notebook showing desktop and phone view:
 
 - paper wireframe phone [here](https://i.imgur.com/mZlLsR1.png)
@@ -48,3 +52,16 @@ Then i used vscode to mock up the sections in both desktop and responsive view a
 
 - vs code mock up responsive [here](https://i.imgur.com/Gwkc0Y6.png)
 - vs code mock up desktop [here](<https://i.imgur.com/05s8Ssg.png>)
+
+# Features
+
+## Current Features
+
+- The website is made to be fully responsive at all sizes
+- Navigation menu changes size and position for best tablet, phone and desktop use
+- Timeline changes direction depending on width of device
+- Email link will open device email app (if installed)
+
+## Future Features
+
+- Subscribe form is only connected to code institute formdump at the moment, but will be a fully functional email-list with automatic welcome email in the future
