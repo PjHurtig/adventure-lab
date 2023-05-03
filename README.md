@@ -23,3 +23,7 @@ You can find the live site [here](https://pjhurtig.github.io/adventure-lab/)
 
 To reflect the outdoors and nature aspect of the websites mission i choose a natural, light and muted colour scheme. The palette is generated from the hero-bg image.
 
+### Typoghraphy
+
+- **Cantarell** is the font used for the body (with sans serif as fallback) because it is easy to read and the name reminds me of nature
+- **Fjalla One** is the font used for the headings and logo (with sans serif as fallback) because it is bold and adventurous, matching the theme of the site.
