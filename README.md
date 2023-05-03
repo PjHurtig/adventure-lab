@@ -58,6 +58,7 @@ Then i used vscode to mock up the sections in both desktop and responsive view a
 ## Current Features
 
 - The website is made to be fully responsive at all sizes
+- The website is made to be accessible.
 - Navigation menu changes size and position for best tablet, phone and desktop use
 - Timeline changes direction depending on width of device
 - Email link will open device email app (if installed)
@@ -85,3 +86,62 @@ Then i used vscode to mock up the sections in both desktop and responsive view a
 - [Fontpair](https://www.fontpair.co/all) to help choose font pairing
 - [Coolors](https://coolors.co/image-picker) to generate palettes from hero image
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse) to test performance and accessability
+
+# Testing
+
+## Validating
+
+Throughout the project i have tested the code with:
+
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse)
+- [CSS Validator](https://jigsaw.w3.org/css-validator/)
+- [HTML Validator](https://validator.w3.org/)
+
+## Testing User Stories from (UX) Section
+
+- "As a user, i want to be able to understand the business and its brand at first look"
+
+#### The hero image and text looks good in any responsive size and both shows through the image and tells through text to the user who we are,and what we do.
+  
+- "As a user, i want to be able to know *why* i should want to join"
+
+#### The "reasons to join" tells the user about the advantages of joining and the "testimonials" lets thoose who are already "members" speak to the user and share their own positive experiences
+
+- "As a user, i want to know the step by step of joining an event"
+
+#### The responsive timeline is simple and clear on the basic steps a member goes through to join the events
+
+- "As a user, i want to be able to easily subscribe"
+  
+#### the subscribtion form allows the user to enter their required information and also optional information about their gear**
+
+- "As a user, i want to be able to get in contact with the business and follow them on social media"
+
+#### The footer has links to social media platforms that open in a new window when klicked, the contact section in the footer has email address that opens in email-app if avaiable
+
+## Further Testing
+
+### Personal Testing
+
+In addition to extensive responsive testing with Google chromes inspect tool throughout the project i have tested it on devices available to me with good results
+
+#### Phones
+
+Huawei mate 20 pro
+
+- Chrome
+- Firefox
+
+Samsung s8
+
+- Chrome
+- Firefox
+
+#### Tablet
+Ipad
+ - Safari
+ - Chrome
+  
+#### Computer
+
+lenovo mini
