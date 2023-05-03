@@ -199,3 +199,14 @@ Found the bug through chrome dev tools. The reason was a float: right, from earl
 Float can be removed because in responsive section they all use flex as is the new convention.
 
 **Result:** Works as intended
+
+# Deployment
+
+## Deployment through GitHub Pages
+This site was deployed through GitHub Pages using the following steps:
+1. Log into [GitHub](https://github.com/).
+2. Locate the [repository](https://github.com/AmyOShea/Angies-Beauty-MS1). 
+3. Locate the settings option along the options bar. 
+4. Locate GitHub Pages options towards the bottom of the page.
+5. In 'Source' dropdown, select 'Master' from the branch options. 
+6. Click the save button. 
