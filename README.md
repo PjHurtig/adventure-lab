@@ -300,6 +300,8 @@ This site was deployed through GitHub Pages using the following steps:
 
 ### Media
 
+- The logo is made by me
+
 - Hero image from [unsplash](https://unsplash.com/photos/DijA5f0voGQ)
 
 - Member profile pictures from [pexels(1)](https://www.pexels.com/sv-se/foto/man-person-solglasogon-gata-1182238/), [pexels(2)](https://www.pexels.com/sv-se/foto/man-person-sot-ung-720366/), [pexels(3)](https://www.pexels.com/sv-se/foto/kvinna-jeans-sport-lycklig-7991921/)
