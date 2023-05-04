@@ -137,7 +137,7 @@ Throughout the project i have tested the code with:
 
 - "Create a website that makes it clear why they would want to subscribe to the newsletter"
   
-#### The whole site is catered to the goal of showing the user (in the target audience) why they would want to be a part of the club
+#### The whole site is catered to the goal of showing the user (in the target audience) why they would want to be a part of the club and newsletter
 
 - "Make it easy to subscribe consistently over the whole site"
   
