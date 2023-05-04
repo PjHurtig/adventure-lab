@@ -1,6 +1,6 @@
 # AdventureLAB's website
 
-AdventureLAB is a multi-sport adventure club where people can join a mailing-list to be informed of upcoming events and book their spot.
+AdventureLAB is a multi-sport adventure club where people can join a mailing-list to be informed of upcoming events and book their spot. This is not a real club (yet) but will be in the near future.
 
 You can find the live site [here](https://pjhurtig.github.io/adventure-lab/)
 
@@ -14,7 +14,7 @@ You can find the live site [here](https://pjhurtig.github.io/adventure-lab/)
 - As a user, i want to be able to know *why* i should want to join
 - As a user, i want to know the step by step of joining an event
 - As a user, i want to be able to easily subscribe
-- As a user, i want to be able to get in contact with the business and follow them on social media
+- As a user, i want to be able to get in contact with the club and follow them on social media
 
 ## Target audience
 
@@ -47,6 +47,7 @@ Few but impactful images helps the user experience by being clear on the subject
 - The hero image speakt loudly to the adventure and nature aspects
 - The member portraits show the feeling of happiness being a part of the club can result in
 - The media gallery shows beautiful scenery and companionship
+- The About Us image is warm, calm and happy and inspires trust
 
 ### Overall Feel
 
@@ -78,7 +79,7 @@ Then i used vscode to mock up the sections in both desktop and responsive view a
 ## Future Features
 
 - Subscribe form is only connected to code institute formdump at the moment, but will be a fully functional email-list with automatic welcome email in the future
-- A user forum for diskussion between members
+- A user forum for discussion between members
 
 # Technologies Used
 
@@ -140,7 +141,7 @@ Throughout the project i have tested the code with:
 
 - "Make it easy to subscribe consistently over the whole site"
   
-### Every page has the signup form in a consistent place above the footer, and every page has a join button in the header that takes the user there with no new page load
+#### Every page has the signup form in a consistent place above the footer, and every page has a join button in the header that takes the user there with no new page load
 
 ## Further Testing
 
