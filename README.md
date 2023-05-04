@@ -288,6 +288,10 @@ This site was deployed through GitHub Pages using the following steps:
 
 - social media links from [love running](https://github.com/PjHurtig/love-running) walkthrough project
 
+### Email form
+
+- Checkbox and email form info from [w3shcools](https://www.w3schools.com/html/html_forms.asp)
+
 ## Content
 
 ### Text
