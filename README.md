@@ -21,8 +21,9 @@ You can find the live site [here](https://pjhurtig.github.io/adventure-lab/)
 - The intended user is anyone who wants to enjoy outdoor experiences in a group setting
 
 ## Key project goals
-- Create a website that makes it cleat why they would want to subscribe to the newsletter
-- Make it easy to subscribe consistently over the whole site 
+
+- Create a website that makes it clear why they would want to subscribe to the newsletter
+- Make it easy to subscribe consistently over the whole site
 
 ## Design
 
@@ -130,6 +131,16 @@ Throughout the project i have tested the code with:
 - "As a user, i want to be able to get in contact with the business and follow them on social media"
 
 #### The footer has links to social media platforms that open in a new window when klicked, the contact section in the footer has email address that opens in email-app if avaiable
+
+## Testing Key project goals
+
+- "Create a website that makes it clear why they would want to subscribe to the newsletter"
+  
+#### The whole site is catered to the goal of showing the user (in the target audience) why they would want to be a part of the club
+
+- "Make it easy to subscribe consistently over the whole site"
+  
+### Every page has the signup form in a consistent place above the footer, and every page has a join button in the header that takes the user there with no new page load
 
 ## Further Testing
 
@@ -239,7 +250,9 @@ This site was deployed through GitHub Pages using the following steps:
 6. Open Git Bash on your device.
 7. Change the current working directory to the location where you want the cloned directory.
 8. Type git clone and the URL you copied earlier. This is what it should look like:
--    $ git clone <https://github.com/PjHurtig/adventure-lab.git>
+
+- $ git clone <https://github.com/PjHurtig/adventure-lab.git>
+  
 9. Press Enter to create your local clone.
 
 # Credits
