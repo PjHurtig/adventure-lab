@@ -4,7 +4,7 @@ AdventureLAB is a multi-sport adventure club where people can join a mailing-lis
 
 You can find the live site [here](https://pjhurtig.github.io/adventure-lab/)
 
-![amiresponsive view of different sizes](https://i.imgur.com/QeWZr14.jpg)
+![amiresponsive view of different sizes](https://i.imgur.com/YgkHj16.png)
 
 # User Experience
 
