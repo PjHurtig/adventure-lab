@@ -178,15 +178,22 @@ Lenovo thinkbook
 
 Throughout the project i have tested the code with Lighthouse with good results.
 
-![lighthousetest](https://i.imgur.com/848JHXx.png)
+**Index**
+![lighthousetest](https://i.imgur.com/eR7T7fo.png)
+
+**Media**
+![lighthousetest](https://i.imgur.com/WIgDR1g.png)
+
+**About**
+![lighthousetest](https://i.imgur.com/XDAdM9C.png)
 
 #### Performance
 
-I have used [TinyPNG](https://tinypng.com/) to optimize image sizes as well as change pixel size in an image aditor.
+I have used [TinyPNG](https://tinypng.com/) to optimize image sizes as well as change pixel size in an image aditor
 
 #### Accessibility
 
-text in hero section was very low contrast to background
+The text in the hero section was very low contrast to background, i changed it to improve accessibility. that and other small changes increased the score from 92 to 97 on the index page.
 
 ## Bugs & Fixes
 
