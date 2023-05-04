@@ -220,9 +220,23 @@ This site was deployed through GitHub Pages using the following steps:
 1. Log into [GitHub](https://github.com/).
 2. Locate the [repository](https://github.com/PjHurtig/adventure-lab).
 3. Locate the settings option along the options bar.
-4. Locate GitHub Pages options towards the bottom of the page.
+4. Locate GitHub Pages options in the sidebar.
 5. In 'Source' dropdown, select 'Master' from the branch options.
 6. Click the save button.
+7. After a while the link is available.
+
+## Cloning Project
+
+1. Log into [GitHub](https://github.com/).
+2. Locate the [repository](https://github.com/PjHurtig/adventure-lab).
+3. Click the 'Code' dropdown above the file list.
+4. Choose "Local" tab
+5. Copy the "HTTPS" URL for the repository.
+6. Open Git Bash on your device.
+7. Change the current working directory to the location where you want the cloned directory.
+8. Type git clone and the URL you copied earlier. This is what it should look like:
+-    $ git clone <https://github.com/PjHurtig/adventure-lab.git>
+9. Press Enter to create your local clone.
 
 # Credits
 
