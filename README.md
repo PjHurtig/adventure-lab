@@ -20,6 +20,10 @@ You can find the live site [here](https://pjhurtig.github.io/adventure-lab/)
 
 - The intended user is anyone who wants to enjoy outdoor experiences in a group setting
 
+## Key project goals
+- Create a website that makes it cleat why they would want to subscribe to the newsletter
+- Make it easy to subscribe consistently over the whole site 
+
 ## Design
 
 ### Colour Palette
