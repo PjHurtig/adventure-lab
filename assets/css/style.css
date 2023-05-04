@@ -540,6 +540,9 @@ a {
 
 /* style checkbox */
 
+/* styling of checkbox from stackoverflow 
+ https://stackoverflow.com/questions/4148499/how-to-style-a-checkbox-using-css/69164710#69164710 */
+
 input[type="checkbox"] {
     appearance: none;
     width: 1rem;
